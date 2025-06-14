@@ -13,7 +13,7 @@ This is a simple web application that generates and displays a random color when
 
 ## ✨ Screenshot
 
-![Random Color Generator Screenshot](screenshot.png)
+![Random Color Generator Screenshot](Screenshot.png)
 
 ---
 
