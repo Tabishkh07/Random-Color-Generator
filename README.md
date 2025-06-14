@@ -6,8 +6,14 @@ This is a simple web application that generates and displays a random color when
 
 ## 🚀 Live Demo
 
-  https://tabishkh07.github.io/Random-Color-Generator
-  [Click here to try the app](#)
+[Click here to try the app](https://tabishkh07.github.io/Random-Color-Generator)
+
+---
+
+
+## ✨ Screenshot
+
+![Random Color Generator Screenshot](screenshot.png)
 
 ---
 
